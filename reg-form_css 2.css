@@ -1,0 +1,170 @@
+ #body{
+   background-image:url("https://unsplash.com/photos/Rr5J1ZLVkm8");
+   background: #FFFFFF;
+  
+   }
+   #header{
+   background:url("/storage/sdcard0/download/design.jpg");
+   background-size:cover;
+   padding:40px 15px;
+   border:1px solid DimGrey;
+    position:static;
+    clear:right;
+    border-style:dotted;
+    border-radius:20px;
+   font-family:Ariel,new roman;
+   margin:70px 0px 0px 0px;
+   text-shadow:2px 3px gray;
+   text-align:center;
+   }
+   #h4{
+   text-align:left;
+   font-family:Tangerine, cursive;
+   font-weight:200px;
+   
+   }
+   img{float:center;
+    length:40%;
+    width:40%;
+    border-radius:50px;
+    margin: 20px 0 20px 5px;
+    border:none;
+   }
+   #headsec{
+   background :;
+   color:white;
+   padding:40px 20px;
+    display:inline;
+      font-weight:200px;
+     max-width:100%;
+      
+   border:none;
+   }
+  #section{
+  text-align:center;
+  background:#FFF8DC;
+  padding:40px 40px;
+  border-radius:30px;
+  margin: 20px 5px 20px 5px;
+  
+  }
+  
+  input[type=text],
+  input[type=password],
+  input[type=email],
+  input[type=tel]{
+  border-radius:5px;
+  width:100%;
+  display: block;
+  padding: 10px 10px;
+  background:#F1F1F1;
+  border-style:dotted;
+  box-shadow:4px 2px grey;
+  font-weight:200px;
+  font-family:Tangerine, cursive;
+  cursor: pointer;
+  }
+  #button {
+  
+  background:orange;
+  
+  color: black;
+  
+  border: 1px solid #eee;
+  
+  border-radius: 20px;
+  
+  box-shadow: 5px 5px 5px #7FFFD4;
+  
+  text-shadow:none;
+  
+  padding: 20px 10px;
+   
+   width: 100%;
+  
+  }
+  
+  #button:hover {
+  
+  background: #04AA6D;
+  
+  color: #fff;
+  
+  border: 1px solid #eee;
+  
+  border-radius: 20px;
+  
+  box-shadow: 5px 5px 5px #F0F8FF;
+  
+  text-shadow:none;
+  
+  }
+  a.link{
+  text-decoration:none;
+  color:white;
+  }
+  a.hover{
+  color:#FOFFFF;
+  }
+  a.visited {
+  color:#FAEBD7;
+  }
+  
+  #footer{
+  background:#333;
+  padding:20px 15px;
+  text-align:center;
+  overflow:hidden;
+
+  }
+  .ul{
+  margin: 0px ;
+  padding: 10px ;
+  background: #333;
+  position :fixed;
+  top:1px;
+   width:100%;
+  
+  
+  list-style-type:none;
+  
+  }
+  li{
+  display:inline;
+  border-right:1px solid gray;
+  width:100%; 
+  padding:0px 3px ;
+  }
+  a{
+  color:white;
+  padding:10px 20px ;
+  text-align:center;
+  text-decoration:none;
+  font-family:cursive;
+  
+  }
+  a.active{
+  color:blue;
+  }
+   
+ img.profile{  
+ float:right;
+ length:30%;
+ padding:20px;
+ width:30%;
+ }
+ 
+ .img2{
+ width:100%;
+ border-radius:1px;
+ float:left;
+ padding: 0px 0px;
+ }
+ p{
+ color: green;
+ }
+ a.signin{
+ color:magenta;
+ }  
+   
+   
